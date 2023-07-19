@@ -35,6 +35,12 @@ The Insurance Management System is designed to provide financial security and ma
 - Policy Management:
   - Customers shall be able to view the list of policies they have purchased.
 
+- Claims Processing:
+  - Users can create new insurance claims linked to specific policies.
+  - Claims must have a unique claim number, a description of the claim, and the incident date.
+  - The system allows processing of claims, including setting claim status (e.g., open, in progress, closed) and adding comments.
+  - Users can view and update the status of existing claims.
+
 3.3 Common Features:
 - User Authentication:
   - The system shall provide a secure login and registration process for both Admin and Customer roles.
